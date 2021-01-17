@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0OiGPKWTJZu88ru0/C5rxXI+n+EwUqQkJ6OjYtVz9R4519l44lsgcz5bf2R5nypPg8pKEtvgW/jowQ5EAyzy0A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emre\\Documents\\VSCode Works\\CSharp\\NotificationTest\\NotificationTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emre\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
