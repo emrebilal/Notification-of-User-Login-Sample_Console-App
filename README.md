@@ -1,4 +1,5 @@
 # Notification-of-User-Login-Sample_Console-App
+**Geolocation data:** https://ipinfo.io  
 **Note:** In case of mail exception error, go to google account (for gmail) settings where you will send mail and turn on less secure (third-party) app access under security tab.
 
 **Inbox:**  
